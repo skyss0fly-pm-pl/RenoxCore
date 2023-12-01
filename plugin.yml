@@ -1,9 +1,9 @@
 name: CoreMythicStar
-api: [3.0.0, 4.0.0]
-version: 1.0.0
-author: UramaeStar
+api: 5.0.0
+version: 2.0.0
+author: skyss0fly
 main: CoreMythicStar\Core
-description: Core Plugin Custom Stuff Secret Things Made By UramaeStar
+description: Core Plugin Custom Stuff Secret Things Made By UramaeStar Updated by skyss0fly 
 permissions:
  core.command.adminhome:
   description: "Teleport to other player home"
